@@ -18,7 +18,7 @@ To run the script locally, you need to have Python installed on your machine. Yo
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/SHIVANIUM-GIT/-Black_Scholes_Option_Pricing_Model.git
+   git clone https://github.com/SHIVANIUM-GIT/Black_Scholes_Option_Pricing_Model.git
    cd black-scholes-option-pricing
    ```
 
